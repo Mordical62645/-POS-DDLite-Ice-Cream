@@ -1,0 +1,24 @@
+# DCIT 23 COMPUTER PROGRAMMING 2
+
+## BSIT-1D
+
+### GROUP MEMBERS:
+
+TECSON, MARCO ANTONIO B.
+LOPEZ, DHENIZE KRISTA FAITH C.
+GONZALES, MICHAEL RHOI L.
+BALATAYO, BRIELLE EDRIAN A.
+ABREU, XYRILL JOHN F.
+CAWALING, SAMANTHA Q.
+BASAY, JEANNEN K.
+FAJARDO, JULIA ANN S.
+
+### alternative project folder link:
+https://drive.google.com/drive/folders/1mWYwGniUG8k2DtpIknL7KI5nrUw8B8cg?usp=sharing
+RAR file password: CaviteStateUniversity_BSIT-1D
+
+### Github:
+https://github.com/Mordical62645/ICE-CREAM-MENU-TRANSACTION/blob/main/DDLite_GUI.py
+
+
+PLEASE READ INSTRUCTION MANUAL BEFORE DOING ANYTHING THANK YOU!
